@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "D:\\Create\\Cord\\WinfoamAppTest\\WinFormsApp\\WinFormsApp\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp\\Form1.cs",
-              "ToolTip": "D:\\Create\\Cord\\WinfoamAppTest\\WinFormsApp\\WinFormsApp\\Form1.cs [Design]",
-              "RelativeToolTip": "WinFormsApp\\Form1.cs [Design]",
+              "ToolTip": "D:\\Create\\Cord\\WinfoamAppTest\\WinFormsApp\\WinFormsApp\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "WinFormsApp\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T11:34:44.033Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
             }
           ]
         }
